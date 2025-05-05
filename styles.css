@@ -1,10 +1,10 @@
 body {
     font-family: Arial, sans-serif;
     margin: 20px;
-    background-color: #f0f0f0;
+    background-color: #53b76d;
     }
     .dish {
     padding: 15px;
-    background-color: white;
+    background-color: rgb(164, 225, 241);
     border-radius: 5px;
     }
